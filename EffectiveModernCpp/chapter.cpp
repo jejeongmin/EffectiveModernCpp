@@ -18,6 +18,7 @@
 #include "chapter16.h"
 #include "chapter17.h"
 #include "chapter18.h"
+#include "chapter19.h"
 
 std::shared_ptr<chapter> chapter::makeChapter(int index)
 {
@@ -59,6 +60,8 @@ std::shared_ptr<chapter> chapter::makeChapter(int index)
 		return std::make_shared<chapter17>();
 	case 18:
 		return std::make_shared<chapter18>();
+	case 19:
+		return std::make_shared<chapter19>();
 	default:
 		return nullptr;
 	}
