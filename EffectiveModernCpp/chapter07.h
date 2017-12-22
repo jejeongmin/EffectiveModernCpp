@@ -30,6 +30,9 @@ public:
 **********************************************************/
 class chapter07 : public chapter
 {
+	class Widget
+	{};
+
 	virtual int chapterMain()
 	{
 		int x1(0);			// 초기치를 괄호로 감싼 예

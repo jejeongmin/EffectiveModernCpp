@@ -4,9 +4,6 @@
 #include <memory>
 #include <unordered_map>
 
-class Widget
-{};
-
 /*********************************************************
 std::function 을 사용하는 것과 auto 를 사용하는 것 사이에는,
 전자의 경우 구문이 장황하고 매개 변수를 반복해서 지정해야 한다는 외견상의 차이보다
@@ -31,6 +28,9 @@ auto 를 사용하면 그런 문제를 미연에 해결할 수 있다.
 **********************************************************/
 class chapter05 : public chapter
 {
+	class Widget
+	{};
+
 	virtual int chapterMain()
 	{
 		int	x1;
