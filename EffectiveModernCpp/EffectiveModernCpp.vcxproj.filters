@@ -93,6 +93,9 @@
     <ClInclude Include="chapter21.h">
       <Filter>소스 파일\chapter</Filter>
     </ClInclude>
+    <ClInclude Include="chapter22.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -103,6 +106,9 @@
     </ClCompile>
     <ClCompile Include="chapter.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter22.cpp">
+      <Filter>소스 파일\chapter</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
