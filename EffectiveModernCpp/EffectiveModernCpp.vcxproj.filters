@@ -117,6 +117,12 @@
     <ClInclude Include="chapter29.h">
       <Filter>소스 파일\chapter</Filter>
     </ClInclude>
+    <ClInclude Include="chapter30.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter31.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
