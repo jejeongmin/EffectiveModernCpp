@@ -123,6 +123,12 @@
     <ClInclude Include="chapter31.h">
       <Filter>소스 파일\chapter</Filter>
     </ClInclude>
+    <ClInclude Include="chapter32.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter33.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

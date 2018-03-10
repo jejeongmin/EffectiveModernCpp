@@ -178,6 +178,8 @@
     <ClInclude Include="chapter29.h" />
     <ClInclude Include="chapter30.h" />
     <ClInclude Include="chapter31.h" />
+    <ClInclude Include="chapter32.h" />
+    <ClInclude Include="chapter33.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
