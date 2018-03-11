@@ -33,6 +33,7 @@
 #include "chapter31.h"
 #include "chapter32.h"
 #include "chapter33.h"
+#include "chapter34.h"
 
 std::shared_ptr<chapter> chapter::makeChapter(int index)
 {
@@ -104,6 +105,8 @@ std::shared_ptr<chapter> chapter::makeChapter(int index)
 		return std::make_shared<chapter32>();
 	case 33:
 		return std::make_shared<chapter33>();
+	case 34:
+		return std::make_shared<chapter34>();
 	default:
 		return nullptr;
 	}
