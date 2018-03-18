@@ -132,6 +132,24 @@
     <ClInclude Include="chapter34.h">
       <Filter>소스 파일\chapter</Filter>
     </ClInclude>
+    <ClInclude Include="chapter35.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter36.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter37.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter38.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter39.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter40.h">
+      <Filter>소스 파일\chapter</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
