@@ -13,9 +13,6 @@ using namespace std;
 
 class chapter35 : public chapter
 {
-	class Widget
-	{};
-
 	static int	doAsyncWork()
 	{
 		return 0;
